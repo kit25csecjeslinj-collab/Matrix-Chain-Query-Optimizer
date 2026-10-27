@@ -1,0 +1,6 @@
+{
+  "name": "Matrix Chain Query Optimizer",
+  "description": "Educational database query optimization simulator using dynamic programming on intervals to select minimum-cost table join orders with interactive DP heatmaps, join trees, and an Eclipse-ready Java backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
